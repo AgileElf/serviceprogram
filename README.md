@@ -1,0 +1,1 @@
+This project was an assignment for my algorithms and data structure class. We needed to use OOP combinded with abstact classes and polymorphism to create a way to select a service and input fields, then loop through the array list.
